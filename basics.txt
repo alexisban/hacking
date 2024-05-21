@@ -1,1 +1,11 @@
+***************************************
+*          FIND OUT IP                *
+***************************************
 
+ping + URL
+Example: ping www.as.com
+
+nslookup + URL
+Example: nslookup www.as.com
+
+Going to https://www.whatismyip.com/dns-lookup/ and type A + complete URL
